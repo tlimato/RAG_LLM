@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fb3376e-a873-4fe5-9c85-d61616d57ee3" name="Changes" comment="Basic Creation File">
-      <change afterPath="$PROJECT_DIR$/subset_maker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="4fb3376e-a873-4fe5-9c85-d61616d57ee3" name="Changes" comment="Lang chain sequence that grabs the a few articles regarding python programming and builds an RAG system that pulls from said articles and adds them to a FAISS database. This database is then used as context when the AI model is called for inference." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +76,7 @@
       <workItem from="1706560238912" duration="1751000" />
       <workItem from="1706571747091" duration="4000" />
       <workItem from="1706571785594" duration="6806000" />
-      <workItem from="1706664313955" duration="3161000" />
+      <workItem from="1706664313955" duration="3602000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Creation File">
       <option name="closed" value="true" />
@@ -90,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706560479038</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lang chain sequence that grabs the a few articles regarding python programming and builds an RAG system that pulls from said articles and adds them to a FAISS database. This database is then used as context when the AI model is called for inference.">
+      <option name="closed" value="true" />
+      <created>1706667917236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706667917237</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +102,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic Creation File" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Creation File" />
+    <MESSAGE value="Lang chain sequence that grabs the a few articles regarding python programming and builds an RAG system that pulls from said articles and adds them to a FAISS database. This database is then used as context when the AI model is called for inference." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lang chain sequence that grabs the a few articles regarding python programming and builds an RAG system that pulls from said articles and adds them to a FAISS database. This database is then used as context when the AI model is called for inference." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RAG_LLM$main.coverage" NAME="main Coverage Results" MODIFIED="1706575208070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
