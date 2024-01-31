@@ -1,0 +1,4 @@
+torch>=2.1.2
+langchain>=0.1.4
+transformers>=4.37.2
+setuptools>=68.2.0
